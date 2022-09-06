@@ -1,0 +1,3 @@
+initialization
+initializeDialogWindow: aDialogWindowPresenter
+	aDialogWindowPresenter initialExtent: 400 @ 200

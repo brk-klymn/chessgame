@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "SpPresenter",
+	"category" : "Spec2-Morphic-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"#entity => ObservableSlot",
+		"#selectEntity",
+		"#possibleEntities => ObservableSlot",
+		"#displaySymbol",
+		"#entityText",
+		"#selectDialog => ObservableSlot",
+		"#placeholder => ObservableSlot"
+	],
+	"name" : "SpSelectEntity",
+	"type" : "normal"
+}

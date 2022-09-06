@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SpAbstractWidgetAdapterTest",
+	"category" : "Spec2-Morphic-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpImageAdapterTest",
+	"type" : "normal"
+}

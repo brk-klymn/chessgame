@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SpSmokeTest",
+	"category" : "Spec2-Morphic-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpRGBSlidersPresenterTest",
+	"type" : "normal"
+}

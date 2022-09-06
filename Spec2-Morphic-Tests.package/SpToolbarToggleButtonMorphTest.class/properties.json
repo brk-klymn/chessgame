@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "SpTMorphicUIRedrawer classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SpToolbarToggleButtonMorphTest",
+	"commentStamp" : "",
+	"super" : "SpSmokeTest",
+	"traitcomposition" : "SpTMorphicUIRedrawer",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Spec2-Morphic-Tests-Examples"
+}

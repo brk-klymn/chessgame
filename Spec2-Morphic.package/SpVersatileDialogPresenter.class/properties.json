@@ -1,0 +1,33 @@
+{
+	"classtraitcomposition" : "SpTDynamicPresenter classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"mainMessage",
+		"mainIcon",
+		"contentArea",
+		"buttons",
+		"moreOptionsButton",
+		"moreOptionsText",
+		"lessOptionsText",
+		"moreOptionsArea",
+		"footnoteIcon",
+		"footnoteArea",
+		"moreOptionsVisible",
+		"mainMessagePresenter",
+		"mainIconPresenter",
+		"contentAreaPresenter",
+		"moreOptionsAreaPresenter",
+		"footnoteIconPresenter",
+		"footnoteAreaPresenter",
+		"result",
+		"defaultButtonId"
+	],
+	"name" : "SpVersatileDialogPresenter",
+	"commentStamp" : "",
+	"super" : "SpDynamicPresenter",
+	"traitcomposition" : "SpTDynamicPresenter",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Spec2-Morphic-Widgets"
+}

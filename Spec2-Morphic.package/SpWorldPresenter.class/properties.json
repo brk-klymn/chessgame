@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SpWindowPresenter",
+	"category" : "Spec2-Morphic-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"widget"
+	],
+	"name" : "SpWorldPresenter",
+	"type" : "normal"
+}

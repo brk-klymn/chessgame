@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Spec2-Morphic-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"morph"
+	],
+	"name" : "SpPaginatorMorphTest",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+footnoteIcon
+
+	^ footnoteIcon

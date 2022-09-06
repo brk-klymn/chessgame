@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SpWorldPresenter",
+	"category" : "Spec2-Morphic-Tests-Core-Support",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"TestWorld"
+	],
+	"instvars" : [ ],
+	"name" : "SpTestWorldPresenter",
+	"type" : "normal"
+}

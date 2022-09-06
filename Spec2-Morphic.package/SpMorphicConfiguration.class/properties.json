@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SpApplicationConfiguration",
+	"category" : "Spec2-Morphic-Application",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"styleSheet"
+	],
+	"name" : "SpMorphicConfiguration",
+	"type" : "normal"
+}

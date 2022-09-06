@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "SpAbstractWidgetPresenter",
+	"category" : "Spec2-Morphic-Paginator",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"#visiblePages => ObservableSlot",
+		"#selectedPage => ObservableSlot",
+		"#dragging => ObservableSlot",
+		"#pagesHolder"
+	],
+	"name" : "SpPaginatorPresenter",
+	"type" : "normal"
+}

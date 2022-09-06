@@ -1,0 +1,4 @@
+transmission
+defaultInputPort
+
+	^ self inputMorphPort

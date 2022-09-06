@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "SpPresenter",
+	"category" : "Spec2-Morphic-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"browseModel",
+		"sendersModel",
+		"implementorsModel",
+		"versionModel",
+		"dropListModel",
+		"model",
+		"usersModel",
+		"method"
+	],
+	"name" : "SpMethodToolbarPresenter",
+	"type" : "normal"
+}

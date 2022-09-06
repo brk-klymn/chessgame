@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "SpPresenter",
+	"category" : "Spec2-Morphic-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"preview",
+		"sliders",
+		"extentForPreview"
+	],
+	"name" : "SpRGBWidget",
+	"type" : "normal"
+}

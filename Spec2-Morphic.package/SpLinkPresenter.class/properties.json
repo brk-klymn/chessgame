@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SpAbstractWidgetPresenter",
+	"category" : "Spec2-Morphic-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"#label => ObservableSlot",
+		"#action => ObservableSlot"
+	],
+	"name" : "SpLinkPresenter",
+	"type" : "normal"
+}

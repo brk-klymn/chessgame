@@ -1,0 +1,3 @@
+TOREMOVE
+defaultColor
+	^ nil

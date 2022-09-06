@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "SpPresenter",
+	"category" : "Spec2-Morphic-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"#chooseDateButton",
+		"#dateModel",
+		"#date",
+		"#displayBlock => ObservableSlot"
+	],
+	"name" : "SpDatePresenter",
+	"type" : "normal"
+}

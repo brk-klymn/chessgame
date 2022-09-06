@@ -1,0 +1,3 @@
+defaults
+defaultDate
+	^ Date today 
